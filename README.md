@@ -4,7 +4,7 @@
 Apply multiple regression and classification algorithms, including Linear Regression, Logarithmic Regression, k-Nearest Neighbors (kNN), Naive Bayes, and SVM classification. Analyze performance across different models and evaluate classification results with precision, recall, and ROC.
 
 **Data**:  
-- Source: Titanic - Machine Learning from Disaster (`train.csv`)
+- Source: Titanic - Machine Learning from Disaster [`Titanic`](https://www.kaggle.com/c/titanic)
 - Description: Multiple CSV files containing numerical features for predicting continuous variables (regression) or categorical labels (classification).
 
 **Data Mining Operations**:  
